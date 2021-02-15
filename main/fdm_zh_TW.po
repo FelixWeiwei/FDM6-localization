@@ -18,7 +18,7 @@ msgstr "版本 %1"
 
 msgctxt "AboutDialog|"
 msgid "OK"
-msgstr "OK"
+msgstr "確定"
 
 msgctxt "AboutDialog|"
 msgid "Version %1 (%2)"
