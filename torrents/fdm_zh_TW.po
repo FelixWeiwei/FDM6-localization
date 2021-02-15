@@ -10,47 +10,47 @@ msgstr ""
 
 msgctxt "AddTrackersDialog|"
 msgid "Add trackers"
-msgstr ""
+msgstr "增加追蹤器"
 
 msgctxt "AddTrackersPage|"
 msgid "Add trackers"
-msgstr ""
+msgstr "增加追蹤器"
 
 msgctxt "DownloadContextMenu|"
 msgid "Disable seeding"
-msgstr ""
+msgstr "停用作種"
 
 msgctxt "DownloadContextMenu|"
 msgid "Add trackers"
-msgstr ""
+msgstr "增加追蹤器"
 
 msgctxt "IntegrationBanner|"
 msgid "Would you like to make %1 the default torrent client?"
-msgstr "你希望%1成為預設種子用戶端嗎？"
+msgstr "您希望 %1 成為預設的 torrent 用戶端嗎？"
 
 msgctxt "IntegrationSettings|"
 msgid "Check if %1 is your default torrent client"
-msgstr "檢查%1是否您的預設BT客戶端"
+msgstr "檢查 %1 是否是的預設 torrent 用戶端"
 
 msgctxt "IntegrationSettings|"
 msgid "Make %1 default torrent client"
-msgstr ""
+msgstr "將 %1 設為預設的 torrent 用戶端"
 
 msgctxt "QObject|"
 msgid "Associate with magnet links"
-msgstr ""
+msgstr "與 magnet 建立關聯"
 
 msgctxt "QObject|"
 msgid "Associate with torrent files"
-msgstr ""
+msgstr "與 torrent 建立關聯"
 
 msgctxt "QObject|"
 msgid "Enter URL or choose torrent file"
-msgstr ""
+msgstr "輸入網址或選擇 torrent 檔案"
 
 msgctxt "QObject|"
 msgid "Merge trackers"
-msgstr ""
+msgstr "合併追蹤器"
 
 msgctxt "QObject|"
 msgid "Torrent"
@@ -58,4 +58,4 @@ msgstr "Torrent"
 
 msgctxt "SettingsPage|"
 msgid "Upload ratio limit"
-msgstr ""
+msgstr "上傳比例限制"
